@@ -1,1 +1,2 @@
-# This repo comprises of all the projects i completed during the Oasis internship'24 in python
+# oasis infobyte
+My Oasis internship project(s) guys:)
